@@ -1,5 +1,6 @@
 # Fitness_Tracker
-![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-20 at 16 49 52](https://user-images.githubusercontent.com/91250039/208695095-45f89d19-9c54-45ac-b6ab-e1ea4edebedf.png)
+
+<img width="246" alt="Screenshot 2022-12-20 at 16 57 30" src="https://user-images.githubusercontent.com/91250039/208696778-df6edf61-adb2-49f5-8987-a930f349dc71.png">
 
 
 
